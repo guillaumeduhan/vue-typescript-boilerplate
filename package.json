@@ -1,7 +1,8 @@
 {
   "name": "vue-typescript-boilerplate",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
+  "author": "Guillaume Duhan",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
