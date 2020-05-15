@@ -1,24 +1,45 @@
-# vue-typescript-boilerplate
+# Vue Typescript Boilerplate
 
-## Project setup
+![logo](https://repository-images.githubusercontent.com/264248082/9d0bf700-96dc-11ea-9d22-ccca962eb56c)
+
+- Vue-CLI 3
+- Typescript
+- Sass/Scss
+- ESLint
+
+## Getting Started
+
+Clone project and enter in folder:
+
 ```
-npm install
+cd vue-typescript-boilerplate
 ```
 
-### Compiles and hot-reloads for development
+Run npm install:
+
+```
+npm i
+```
+
+Enjoy:
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Built With
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [Vue CLI](https://cli.vuejs.org/) - Standard Tooling for Vue.js Development
+- [Typescript](https://getbootstrap.com/) - Build responsive, mobile-first projects on the web with the world’s most popular front-end component library.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning.
+
+## Authors ✨
+
+- **guillaumeduhan** - _Initial work_ - [Github](https://github.com/guillaumeduhan)
+
+## License
+
+This project is licensed under the MIT License.
